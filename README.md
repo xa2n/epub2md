@@ -6,9 +6,9 @@ Using pypandoc
 
 ### macOS
 
-'brew install pandoc'
-'brew install --cask mactex'
-'pip install pypandoc'
+'brew install pandoc' 
+'brew install --cask mactex' 
+'pip install pypandoc' 
 
 ### バージョン確認
 
